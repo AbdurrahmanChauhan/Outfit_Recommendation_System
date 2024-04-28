@@ -1,0 +1,14 @@
+# Ignore models folder
+/models/
+
+# Ignore Data folder
+/Data/
+
+# Ignore .venv folder
+/.venv/
+
+# Ignore __pycache__ folders within the py directory
+/py/__pycache__/
+
+# Ignore .zip files
+*.zip
