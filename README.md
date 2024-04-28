@@ -114,12 +114,11 @@ f) Then you will see the app!
 │   │   └── model_shoes   # A model that recognizes the type, color, gender, season, and usage of shoes
 │   ├── train_module.py   # A module which contains functions we used to train the models
 │   └── training.py   # Steps that we train the models
-├── model details   # This folder contains all models
-│   ├── models
-│   │   ├── model_sub   # A model that distinguishes tops, bottoms, and shoes
-│   │   ├── model_top   # A model that recognizes the type, color, gender, season, and usage of tops
-│   │   ├── model_bottom   # A model that recognizes the type, color, gender, season, and usage of bottoms
-│   │   └── model_shoes   # A model that recognizes the type, color, gender, season, and usage of shoes
+├── models
+│   ├── model_sub   # A model that distinguishes tops, bottoms, and shoes
+│   ├── model_top   # A model that recognizes the type, color, gender, season, and usage of tops
+│   ├── model_bottom   # A model that recognizes the type, color, gender, season, and usage of bottoms
+│   └── model_shoes   # A model that recognizes the type, color, gender, season, and usage of shoes
 ├── pictures   # Pictures used in this repo
 │   ├── 51109bb074d95c059f716e48786568f.jpg   
 │   ├── IMG_0159.jpg   
